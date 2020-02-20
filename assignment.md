@@ -1,8 +1,8 @@
-#SuperRobotics Home assignment:
+# SuperRobotics Home assignment:
 
 <strong>Please answer in English</strong>
 
-##questions:
+## questions:
 1. Describe your experience with programming arduino like boards, microcontroller etc. describe a project you’ve made/was part of.
 2. What excites you about robotic programming rather than computer programming?
 3. Do you have experience in Computer Vision? What environment? describe
@@ -25,13 +25,13 @@ No need to implement anything.
 
 
 
-##Python Assignment:
+## Python Assignment:
 
 Decode the provided encoded.txt file.
  
 <strong>Read all instructions before starting!</strong>
 
-###Rules for decoding:
+### Rules for decoding:
 A relevant character is surrounded by 6 other chars, the format [c1][c2][c3][X][c4][c5][c6], where X is the relevant char, and ‘c#’ describe the decoding of X.
 Rules of c#:
 * C1 is always a capital letter
