@@ -13,8 +13,8 @@
 7. For each case answer the following questions: 
 Assuming I want to create a system that does the following:
 * I want to detect a person entering the house door, and turn on the AC:
-* for a non-smart AC
-* for smart AC
+** for a non-smart AC
+** for smart AC
 * I want to create a home display for today’s weather and current home temperature
 * I want measure the distance I have traveled by bicycle (4 options)
 * I want to measure the angle between two objects
