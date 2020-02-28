@@ -5,10 +5,10 @@
 ## questions:
 1. Describe your experience with programming arduino like boards, microcontroller etc. describe a project you’ve made/was part of.
 2. What excites you about robotic programming rather than computer programming?
-3. Do you have experience in Computer Vision? What environment? describe
+3. Do you have experience in Computer Vision? What environment/tools/libraries/language? describe
 4. Do you use/work with CAM/CAD software? Which? For what? Can you add something you designed?
 5. Do you have any background in electronics? Technical skills?
-6. Describe in a few lines your experience with ROS, Gazebo other tools.
+6. Describe in a detail your experience with ROS, Gazebo, rvis other tools. An in depth description of a robot you have developed or a project you made is best.
 
 7. For each case answer the following questions: 
 Assuming I want to create a system that does the following:
