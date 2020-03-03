@@ -39,7 +39,7 @@ A relevant character is surrounded by 6 other chars, the format [c1][c2][c3][X][
 Rules of c#:
 * C1 is always a capital letter
 * C2 is always a number
-* If X is capital C3 will be 0, else lower case.
+* If X is capital C3 will be 0, else C3 != 0.
 * C5 always a letter
 * C6 has twice the ascii value of C4
 * The minimum distance between two relevant X is 87 chars.
